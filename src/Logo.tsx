@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import './Logo.css'
 
 function Logo() {
     return (
