@@ -1,6 +1,6 @@
 import './App.css';
-import HelloWorld from './HelloWorld';
-import Logo from './Logo';
+import HelloWorld from './hello-world/HelloWorld';
+import Logo from './logo/Logo';
 
 function App() {
   return (
